@@ -1,6 +1,5 @@
 # Accelerated Computer Science Fundamentals 
 
-![UIUC Logo](https://online.illinois.edu/images/default-source/default-album/quad-image-banner.jpg?sfvrsn=fc8d9911_0)
 
 This repository contains all the C++ programs developed as part of the **Accelerated Computer Science Fundamentals** course offered by the **University of Illinois Urbana-Champaign (UIUC)**. Each program reflects key concepts taught in the course, emphasizing clean code, efficiency, and scalability.
 
